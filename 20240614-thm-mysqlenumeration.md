@@ -6,6 +6,8 @@ layout: default
 
 # TryHackMe - using enumeration to discover usernames/passwords in a MySQL database
 
+Date: 6/14/2024
+
 Default info:
 - Name: polomysql
 - IP: 10.10.37.41
