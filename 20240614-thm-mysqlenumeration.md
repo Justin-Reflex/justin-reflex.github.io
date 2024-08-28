@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 [Back Home](./index.md)
 
