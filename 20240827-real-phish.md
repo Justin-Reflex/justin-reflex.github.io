@@ -7,9 +7,7 @@ layout: default
 # Real-World Phishing Email experience
 
 Date of Occurrance: 8/27/2024
-
 Sender: known contact from a large customer
-
 Result: notified customer IT to be resolved on their end; issued warning to coworkers
 
 I received an email this morning from a known contact with a large customer. The body of the email was a direct link from within the customer's sharepoint. This was slightly unusual, but not alarming. I made sure the link was legitimately linking to Microsoft's Sharepoint and then proceeded to follow the link. 
