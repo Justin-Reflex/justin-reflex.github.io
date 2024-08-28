@@ -17,5 +17,5 @@ layout: default
 
 
 ```
-<div style="text-aligh:center;" markdown="Thank you for looking at my work.">
+<h4 style="text-align: center;" markdown="1">Thank you for visiting me.</h4>
 ```
