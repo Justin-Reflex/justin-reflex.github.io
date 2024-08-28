@@ -2,12 +2,20 @@
 layout: default
 ---
 
+[About Me](./aboutme.md)
 
-[8-27-2024 A Real-world Phishing attempt against myself.](./20240827-real-phish.md)
+# Training and Education Write-ups
+
+
+
+# Real-World Experiences
+
+[8-24-2024 - Created Phishing Awareness Presentation](./20240824-grc-phishaware.md)
+[8-27-2024 - A real-world Phishing attempt against myself.](./20240827-real-phish.md)  
 
 
 
 
 ```
-Thank you for looking at my work.
+<div style="text-aligh:center;" markdown="Thank you for looking at my work.">
 ```
