@@ -16,6 +16,4 @@ layout: default
 
 
 
-```
-<h4 style="text-align: center;" markdown="1">Thank you for visiting me.</h4>
-```
+<h3 style="text-align: center;" markdown="1">Thank you for visiting me.</h3>
