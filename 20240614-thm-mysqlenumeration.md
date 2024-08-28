@@ -50,7 +50,7 @@ Default info:
 - after setting options (same as version discovery module), then `run`
 - A bunch of table names print out, along with column information
 
-
+<br/><br/>
 ![Pasted image 20240614102819](https://github.com/user-attachments/assets/00a8a7bb-701c-4089-9986-b27a1aa2c803)
 - `use` new module for dumping hashes (possibly for passwords?), and go through `options`
 
