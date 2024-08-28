@@ -29,3 +29,5 @@ I pegged this as a phishing email, but it looked like the hacker had actual acce
 Upon receiving a response I know did not come from the customer, I went through our usual channels to notify the customer's IT desk of this breach. I also notified our personnel of the issue so no one else becomes a victim of the perpetrator.
 
 *I was unable to get a screenshot of the actual document with the malicious link. All other images were gathered after the incident was resolved. Future incidents/blogs will have better documentation.
+
+[Back Home](./index.md)
