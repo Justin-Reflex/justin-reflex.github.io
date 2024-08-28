@@ -1,10 +1,6 @@
 
-Ensure MySQL client is installed first: `sudo apt install default-mysql-client`
 
-Everything here can also be done manually (ie. not using Metasploit):  
-https://nmap.org/nsedoc/scripts/mysql-enum.html  
-https://www.exploit-db.com/exploits/23081
-
+[Back Home](./index.md)
 
 Default info:
 - Name: polomysql
@@ -78,3 +74,6 @@ Default info:
 ![Pasted image 20240614105621](https://github.com/user-attachments/assets/5e445924-31b9-4d41-afd2-08f9fdcb9a66)
 - `ssh` onto the target IP using Carl username and password
 - read MySQL.txt in default folder to find the flag
+
+
+[Back Home](./index.md)
