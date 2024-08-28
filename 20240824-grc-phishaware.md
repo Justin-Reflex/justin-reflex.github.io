@@ -23,7 +23,7 @@ This second slide was just to provide a simple definition of what phishing actua
 <br/><br/>
 ![image](https://github.com/user-attachments/assets/767a8948-5dd6-4ce1-961f-26d182678359)
 
-This third slide actually went over a real-world example (from an online example) and is the most important of the slides in this presentation. Everything presented here are the most common metrics to determine if something is genuine or a trap: from generic wording, poor grammar/spelling, unprofessional formatting, over-dramatic urgency, and spoofed links. With this information, hopefully it can give someone just enough doubt so that they seek our support instead of blindly clicking on malicous links.
+This third slide actually went over a real-world example (from an online example) and is the most important of the slides in this presentation. Everything presented here are the most common metrics to determine if something is genuine or a trap: generic wording, poor grammar/spelling, unprofessional formatting, over-dramatic urgency, and spoofed links. With this information, hopefully it can give someone just enough doubt so that they seek our support instead of blindly clicking on malicous links.
 
 <br/><br/>
 ![image](https://github.com/user-attachments/assets/75a5d68a-3ed2-4754-b2a9-26cb200b0569)
