@@ -10,7 +10,7 @@ layout: default
 Date: 8/27/2024
 
 <br/><br/>
-### Start Simulation
+### Background
 
 Before starting the simulation, I actually had to look up Telstra as I wasn't familiar with this company. Telstra is a telecomm company based in Australia with similar offerings to AT&T. With that information, I started the simulation and was immediately provided with some background information:
 
