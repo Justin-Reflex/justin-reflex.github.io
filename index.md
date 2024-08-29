@@ -8,6 +8,7 @@ layout: default
 # Training and Education Write-ups
 
 [6-14-2024 - THM MySQL Enumeration](./20240614-thm-mysqlenumeration.md)  
+[8-27-2024 - Forage - Telstra Cyber Attack](./20240827-forage-telstra.md)  
 
 <br/><br/>
 # Real-World Experiences
