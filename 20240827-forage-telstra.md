@@ -14,6 +14,7 @@ Date: 8/27/2024
 
 Before starting the simulation, I actually had to look up Telstra as I wasn't familiar with this company. Telstra is a telecomm company based in Australia with similar offerings to AT&T. With that information, I started the simulation and was immediately provided with some background information:
 
+<br/><br/>
 ### Task 1  
 ![2024-08-27_12-56](https://github.com/user-attachments/assets/50dafd9f-bd1a-4d86-a76c-55a2f04c7cff)  
 ![2024-08-27_12-57](https://github.com/user-attachments/assets/89078adf-a06e-43d8-acb1-856e257baa8f)  
@@ -33,6 +34,7 @@ This information gave me what I needed to write up a quick professional email to
 
 With that email sent, Task 1 was complete. In the Incident Response Lifecycle, this step (and part of step 2) would be grouped together as Detection and Analysis, so we still have some more analysis to do before we can move onto Containment, Eradication, and Recovery.
 
+<br/><br/>
 ### Task 2  
 ![2024-08-27_13-27](https://github.com/user-attachments/assets/c575c006-f995-4769-8c4f-e336ba9c9776)  
 ![2024-08-27_13-28](https://github.com/user-attachments/assets/665d18fa-77d4-4408-beb4-d411c12ffb8e)  
@@ -42,6 +44,7 @@ Upon further analysis of the incident, we can determine steps to take to cut-off
 
 My solution turned out to be a little overkill though. The simulation also provided "ideal" responses for each task and I should have specified to block traffic based on the request path AND certain headers, which would have been a more targeted approach as opposed to my blanket rule.
 
+<br/><br/>
 ### Task 3
 ![2024-08-27_14-01](https://github.com/user-attachments/assets/857f7d84-33a7-49b3-aea9-ea5b2c08ee80)  
 ![2024-08-27_14-01_1](https://github.com/user-attachments/assets/14c370b8-43ef-4cff-874c-8ae0161a4ed4)  
@@ -58,6 +61,7 @@ And the results from the attack run...
 My code was successful. Yay! However, like mentioned previously, there was a better way. The below code was provided after completing the task. You can see that they define a list of bad headers, then if a client requests the "/tomcatwar.jsp" path, the loop runs to determine if any of the bad headers are a match before blocking the traffic. They also used a 403 error code instead of 401 like I did.  
 ![2024-08-27_16-03](https://github.com/user-attachments/assets/002f26b7-9967-46a9-8f99-f30335101842)  
 
+<br/><br/>
 ### Task 4
 
 Task 4 corresponds to step 4 in the NIST Incident Response Lifecycle. We perform a Postmortem or Lessons learned exercise to break down the various steps of response process, further analyze the situation and determine if any changes need to be made to the organization's infrastructure or employed frameworks.
