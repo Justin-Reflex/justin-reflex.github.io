@@ -4,7 +4,7 @@ layout: default
 
 [Back Home](./index.md)
 
-<br/><br/>
+
 # Real-World Phishing Email experience
 
 Date of Occurrance: 8/27/2024  
