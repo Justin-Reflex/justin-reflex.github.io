@@ -75,7 +75,7 @@ Here is the "ideal response" provided by the module once completed:
 ![2024-08-29_10-38_1](https://github.com/user-attachments/assets/885d1833-eda5-4fab-9f75-1c61378bc581)  
 
 <br/><br/>
-# Summary
+# Final Thoughts
 
 I really enjoyed this module. It challended me and made me feel more confident in my ability to learn new things and navigate the cybersecurity space. I can't wait to tackle other modules on Forage.
 
