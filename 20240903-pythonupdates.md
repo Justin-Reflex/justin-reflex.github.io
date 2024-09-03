@@ -18,7 +18,7 @@ Before I get to the script, I must admit that haven't done this before. My exper
 <br/><br/>
 ### The Script
 
-Besides importing the necessary libraries, the first part defines the directory variables I used. I adapted my code from a python tutorial on automatically finding and replacing text: [YouTube Tutorial by Coding is Fun](https://www.youtube.com/watch?v=cUUjkEgnCjs).  
+Along with importing the necessary libraries, the first part defines the directory variables I used. I adapted my code from a python tutorial on automatically finding and replacing text: [YouTube Tutorial by Coding is Fun](https://www.youtube.com/watch?v=cUUjkEgnCjs).  
 ![image](https://github.com/user-attachments/assets/69ac271c-ed59-4163-8bd0-69e488dfb0b9)  
 ![image](https://github.com/user-attachments/assets/d9ac5021-9a9d-407a-babf-a12ac5167381)  
 
