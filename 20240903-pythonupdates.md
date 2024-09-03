@@ -15,6 +15,9 @@ The Solution:  Automate the update with a python script.
 
 Before I get to the script, I must admit that haven't done this before. My experience with Python so far has been limited to courses I've taken to learn about cybersecurity. However, I do have some experience with programming in Objective C, C#, and the visual scripting used in Unreal Engine, and so I'm very familiar with researching code snippets and adapating to my own project. 
 
+<br/><br/>
+### The Script
+
 Besides importing the necessary libraries, the first part defines the directory variables I used. I adapted my code from a python tutorial on automatically finding and replacing text: [YouTube Tutorial by Coding is Fun](https://www.youtube.com/watch?v=cUUjkEgnCjs).  
 ![image](https://github.com/user-attachments/assets/d9ac5021-9a9d-407a-babf-a12ac5167381)  
 
