@@ -41,7 +41,7 @@ Finally, with those changes in place, we save the docx and pdf files to the desi
 
 If you're wondering, there are some instances where I might want to designate a different file path, which is why I want to keep the pathing variables and keep the word_app SaveChanges set to false. I also duplicated the same script and took out everything except the pdf conversion. I occassionally need to pdf several documents and the Adobe solution built in Windows is just so clunky.
 
-I really enjoyed working on this. It took me a full day to research and finalize this script. However, I can now update and pdf 300 documents in approximately 5 minutes. I'd say this was well worth it. I could have set the script to run on all documents in all folders, but I like the compartmentalizing. I much prefer running a script 20 times for 1-5 minutes each than running it once for 100 minutes. There's less likelihood of something going wrong and if something did happen, then it would be much easier to recover.
+I really enjoyed working on this. It took me a full day to research and finalize this script. However, I can now update and pdf 300 documents in approximately 5 minutes. I'd say this was well worth it. This script will find all documents in all subfolders, so I would not run it in a directory that has many subfolders. I much prefer running a script 20 times for 1-5 minutes each than running it once for 100 minutes. There's less likelihood of something going wrong and if something did happen, then it would be much easier to recover.
 
 <br/><br/>
 [Back Home](./index.md)
