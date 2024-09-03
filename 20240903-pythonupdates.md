@@ -24,7 +24,7 @@ Besides importing the necessary libraries, the first part defines the directory 
 Additional variables are needed for the find/replace function, including the variables to identify what to find and what to replace.  
 ![image](https://github.com/user-attachments/assets/d2fd89d5-aca3-42bb-a956-6d311eb44ac4)  
 
-Additional settings/variables are set before the script can actually work.  
+Additional settings/variables are set before the script can actually work as intended.  
 ![image](https://github.com/user-attachments/assets/2e658765-cdbb-4739-a4aa-fea3c820af52)  
 
 Once everything is set, a for loop is called to itterate through all ".doc" and ".docx" files in the input_dir:  
