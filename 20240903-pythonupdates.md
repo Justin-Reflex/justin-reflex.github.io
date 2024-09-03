@@ -9,7 +9,7 @@ layout: default
 
 Date: 8/30/2024
 
-Background: My company's corporate headquarters just moved to a new street address. Part of my responsibilities include keeping all of our documentation updated. The first task I set for myself was to update the company address on the all templates/forms we use, which was quick and easy using brute-force. The not-so-easy task was to then update all existing documentation to the new address (archived documents and completed forms/reports are not included in this update). To give some perspective, we have over 500 materials that I need to have current documentation on. Not counting Spec sheets (1 per material) and Certificates of Analysis (dozens per material), there are 2743 docx files that need to be updated and converted to pdf.
+Background: My company's corporate headquarters just moved to a new street address. Part of my responsibilities include keeping all of our documentation updated. The first task I set for myself was to update the company address on the all templates/forms we use, which was quick and easy using brute-force. The not-so-easy task was to then update all existing documentation to the new address (archived documents and completed forms/reports are not included in this update). To give some perspective, we have over 500 materials that I need to have current documentation on. Not counting Spec sheets (1 per material) and Certificates of Analysis (dozens per material), there are 2743 docx regulatory files that need to be updated and converted to pdf.
 
 The Solution: Automate the update with a python script.
 
