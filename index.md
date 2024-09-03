@@ -14,9 +14,9 @@ layout: default
 # Real-World Experiences
 
 [4-11-2024 - Writing an AUP for a small organization.](./20240411-grc-aup.md)  
-[8-24-2024 - Created Phishing Awareness Presentation](./20240824-grc-phishaware.md)  
+[8-24-2024 - Created Phishing Awareness Presentation.](./20240824-grc-phishaware.md)  
 [8-27-2024 - A real-world Phishing attempt against myself.](./20240827-real-phish.md)  
-
+[8-30-2024 - Using Python to Update Word Documents.](./20240903-pythonupdates.md)
 
 
 <br/><br/>
