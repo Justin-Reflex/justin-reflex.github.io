@@ -5,8 +5,12 @@ layout: default
 [Back Home](./index.md)
 
 
-# Title
+# TITLE
 
+Date: DATE
+
+<br/><br/>
+BODY
 
 <br/><br/>
 [Back Home](./index.md)
