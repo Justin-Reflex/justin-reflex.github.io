@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[My LinkedIn Profile - Justin Roederer](https://www.linkedin.com/in/justin-roederer-248b5630a/)  
-
 <br/><br/>
 # Training and Education Write-ups
 
