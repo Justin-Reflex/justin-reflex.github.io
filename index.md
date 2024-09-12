@@ -3,7 +3,6 @@ layout: default
 ---
 
 Hello and welcome to my Github. This is a collection of projects and experiences that I've gathered to document my journey into Information Security, Compliance, and Administration.  
-***
 <br/><br/>
 
 # Information Security
