@@ -2,9 +2,6 @@
 layout: default
 ---
 
-[Back Home](./index.md)
-
-
 # TITLE
 
 Date: 1/1/1999
