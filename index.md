@@ -21,4 +21,5 @@ layout: default
 
 
 <br/><br/>
-<h3 style="text-align: center;" markdown="1">Thank you for visiting me.</h3>
+Connect with me on LinkedIn [here.](https://www.linkedin.com/in/justin-roederer/)
+
