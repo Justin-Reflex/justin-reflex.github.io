@@ -21,5 +21,5 @@ layout: default
 
 
 <br/><br/>
-Connect with me on LinkedIn [here.](https://www.linkedin.com/in/justin-roederer/)
+### Connect with me on LinkedIn [here.](https://www.linkedin.com/in/justin-roederer/)
 
