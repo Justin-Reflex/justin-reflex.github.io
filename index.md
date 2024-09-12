@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello, my name is Justin. Welcome to my Github. This is a collection of projects and experiences that I've gathered to document my journey into IT.
+Hello and welcome to my Github. This is a collection of projects and experiences that I've gathered to document my journey into IT.
 
 <br/><br/>
 # Information Security
