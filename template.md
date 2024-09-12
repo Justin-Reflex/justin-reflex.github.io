@@ -18,7 +18,7 @@ This is the executive description of the project.
 
 - Tool 1: use case
 - Tool 2: use case
-- Skills: 1, 2, 3
+- Skills: programming languages, IT / security concepts
 <br/><br/>
 
 ## Body Section 1
