@@ -20,12 +20,13 @@ This first section of python opens the empty database and creates new tables for
 
 
 This next section of python opens a csv file with a large number of music tracks exported from a popular music app. The file is then parsed into the different pieces of information that is typically needed for each music track entry. At the same time, primary and foreign keys are designated to form relationships between the different tables. This is done to allow for quick navigation of a database table.
+
 *Note: using an integer key and creating relationships between tables instead of putting all of the actual data in one table speeds up retrieval in large databases. While not necessary in this instance, it is good practice.
 
 ![fill-db](https://github.com/user-attachments/assets/dca8114b-662e-4f03-8630-1a3c86b9357e)
 
 
-The python script was relatively short, but powerful. Here is a snippet of the database using an SQLite browser. You can see the use of foreign keys to match music tracks to their respective album, artist, or genre.
+The python script was relatively short, but powerful. Here is a snippet of the database using an SQLite browser. You can see the use of foreign keys to match music tracks to their respective album, artist, or genre IDs.
 
 ![sqlitedb](https://github.com/user-attachments/assets/f329b29e-e7f1-4399-867c-a4b4d6142d35)
 
@@ -33,6 +34,9 @@ The python script was relatively short, but powerful. Here is a snippet of the d
 Here is the end product showing a simple join query to visualize how everything comes together.
 
 ![joinquery](https://github.com/user-attachments/assets/d6e2ff17-fb9b-4fe4-89fe-2fee79942ac3)
+
+
+And I love it when a plan comes together.
 
 
 <br/><br/>
