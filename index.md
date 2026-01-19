@@ -8,6 +8,7 @@ Hello and welcome to my Github. This is a collection of projects and experiences
 # General IT
 
 [2-12-2025 - Music Track DB](./20250212-p4e-mtrack-db.md)  
+[1-20-2026 - AWS Cloud Resume]()
 <br/><br/>
 
 # Information Security
