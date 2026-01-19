@@ -18,8 +18,36 @@ Completing this project has helped me build a robust foundation in modern cloud 
 
 ## TOOLS & SKILLS USED
 
-- Tool 1: use case
-- Tool 2: use case
+Technical Tools & Services
+
+    Databases: Amazon DynamoDB for NoSQL data storage and state management (visitor tracking).
+
+    Networking & Security: Amazon Route 53 for DNS management and AWS Certificate Manager (ACM) for SSL/TLS encryption.
+
+    API Management: Amazon API Gateway for creating and managing RESTful endpoints.
+
+    Infrastructure as Code (IaC): AWS SAM, Terraform, or CloudFormation for defining infrastructure as version-controlled code.
+
+    CI/CD & Version Control: GitHub Actions for automated deployment pipelines and Git for source code management.
+
+Core Skills Gained
+
+    Serverless Architecture Design: Designing decoupled, event-driven systems that scale automatically without managing servers.
+
+    Frontend-to-Backend Integration: Connecting a static frontend to a dynamic backend API via asynchronous JavaScript (CORS, Fetch API).
+
+    DevOps Automation: Building continuous integration and delivery pipelines to ensure code quality and automated deployments.
+
+    Identity & Access Management (IAM): Implementing the principle of least privilege by configuring specific IAM roles and policies for cloud services.
+
+    Cloud Security Best Practices: Configuring bucket policies, origin access identities (OAI/OAC), and managing SSL certificates for secure web traffic.
+
+    Infrastructure Management: Transitioning from manual console configuration to repeatable, code-based environment provisioning.
+    
+- AWS Lambda: compute and logic, using JavaScript (or Python) for serverless backend processing.
+- Amazon S3: storage and hosting.
+- Amazon CloudFront: global edge caching and HTTPS content delivery.
+- 
 - Skills: programming languages, IT / security concepts
 <br/><br/>
 
