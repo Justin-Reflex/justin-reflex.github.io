@@ -2,7 +2,7 @@
 layout: default
 ---
 [Back Home](./index.md)
-# 
+ 
 
 # AWS Cloud Resume
 
