@@ -5,7 +5,7 @@ layout: default
 Hello and welcome to my Github. This is a collection of projects and experiences that I've gathered to document my journey into Information Security, Compliance, and Administration.  
 <br/><br/>
 
-# General IT
+# Information Technologies
 
 [2-12-2025 - Music Track DB](./20250212-p4e-mtrack-db.md)  
 [1-20-2026 - AWS Cloud Resume](./20260120-cloudresume.md)
