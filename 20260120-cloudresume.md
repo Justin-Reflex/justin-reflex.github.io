@@ -18,7 +18,26 @@ Completing this project has helped me build a robust foundation in modern cloud 
 
 ## AWS CLOUD RESUME PROJECT IMPLEMENTATION
 
-Body of project
+# Parameters
+
+1. Static website hosted on S3
+2. Secure using HTTPS
+3. Have a visitor counter
+4. Include a generative AI feature
+5. CI/CD pipeline using GitHub
+
+# Step 1 - HTML, CSS, JS
+
+I started with a simple HTML template and some prompt engineering to develop a style sheet and javascript to recreate my resume in html form with a style that felt pleasing and professional. At this point, the script only contained a placeholder for the AI chatbot and a visitor counter using LocalStorage.
+
+# Step 2 - Create initial AWS Services - S3, Route 53, CloudFront
+
+# Step 3 - Create functional visitor counter - DynamoDB, Lambda / API Gateway, JS (with API trigger)
+
+# Step 4 - Create GenAI Chatbot - Amazon Bedrock, Claude 3 Haiku
+
+# Step 5 - Create CI/CD Pipeline using GitHub
+
 <br/><br/>
 
 #  
