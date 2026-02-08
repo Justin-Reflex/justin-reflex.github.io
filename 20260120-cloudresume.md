@@ -32,11 +32,19 @@ I started with a simple HTML template and some prompt engineering to develop a s
 
 # Step 2 - Create initial AWS Services - S3, Route 53, CloudFront
 
+Using my previously created AWS account I made for study and exploration, I setup a new S3 bucket as a static website and uploaded the newly created webpage + assets. I tested that everything worked by pasting the S3 bucket address directly into a browser. Once confirmed, I removed all public access in preparation for using CloudFront as a more secure and faster method of accessing the webpage. I bought my domain through Route 53, 
+
 # Step 3 - Create functional visitor counter - DynamoDB, Lambda / API Gateway, JS (with API trigger)
+
+
 
 # Step 4 - Create GenAI Chatbot - Amazon Bedrock, Claude 3 Haiku
 
+
+
 # Step 5 - Create CI/CD Pipeline using GitHub
+
+
 
 <br/><br/>
 
