@@ -58,9 +58,16 @@ The final piece of the puzzle was automation. I used GitHub Actions to create a 
 
 * **The Power of Serverless:** I learned how to build functional backends without ever having to manage a physical or virtual server. The scalability and cost-efficiency of Lambda and DynamoDB are eye-opening for a beginner.
 
-- **Troubleshooting is Part of the Job:** Encountering API errors and CORS issues (Cross-Origin Resource Sharing) was frustrating at first, but it forced me to use CloudWatch logs and browser developer tools—skills that are essential for any cloud professional.
+* **Troubleshooting:** Encountering API errors and CORS issues (Cross-Origin Resource Sharing) was frustrating at first, but it forced me to use CloudWatch logs and browser developer tools—skills that are essential for any cloud professional.
 
-- Security First: Moving from a public S3 bucket to a restricted one served through CloudFront taught me the importance of the Principle of Least Privilege and securing data in transit with HTTPS.
+* **Security First:** Moving from a public S3 bucket to a restricted one served through CloudFront taught me the importance of the Principle of Least Privilege and securing data in transit with HTTPS.
+<br/><br/>
+
+## Cloud Architecture Diagram
+
+Here is a diagram I created to illustrate how the different AWS services link within this project.
+
+![cloud-resume-diagram](./assets/cloud-resume-diagram.png)
 <br/><br/>
 [Back Home](./index.md)
 
