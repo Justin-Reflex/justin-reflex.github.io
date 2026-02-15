@@ -6,7 +6,7 @@ layout: default
 
 # AWS Cloud Resume
 
-Date: 1/20/2026
+Date: 1/20/2026 (updated 2/15/2026)
 <br/><br/>
 
 ## DESCRIPTION
@@ -68,6 +68,17 @@ The final piece of the puzzle was automation. I used GitHub Actions to create a 
 Here is a diagram I created to illustrate how the different AWS services link within this project.
 
 ![cloud-resume-diagram](./assets/cloud-resume-diagram.png)
+
+
+# UPDATE - I incorporated IaC into my Cloud Resume using Hashicorp Terraform.
+
+Following the work done by others, I duplicated my live site using terraform. I started by installing terraform and making sure it could reach my AWS account with a new Terraform admin role for tracking changes made from this new source. I then had to setup my main.tf with the AWS region, create a gitignore file, and initialize the project using 'terraform init'.  From there, the first resource I created was an S3 bucket with the same assets (HTML, CSS, JS) as my live S3 bucket. Just like with creating the S3 bucket initially, I made it a static website and open to public viewing to test everything was working. I quickly changed it back to block public access and then setup the CloudFront connection through the main.tf file with the necessary origin pointer and AWS ACM Certificate. I had some troubles with undeclared resource errors and the resume pdf not syncing, but those errors were quickly resolved with some Gemini and Claude queries. 
+
+Now that the cloudfront address was working, the website was updating, and the resume pdf button was downloading my latest resume, it was time to bring down the live site and use my purchased domain with this new CloudFront Distribution. Since I already had a Route 53 record with my domain, I just needed to add the resource reference block to main.tf. I also had to add the domain aliases to my CloudFront Distribution resource block, but I came across another error, this time concerning the Route 53 record. Turns out, my code was trying to create a new record where one already exists. Rather than deleting the record, I decided to run a 'terraform import' of the Route 53 record so that terraform would take ownership of the existing record and it worked perfectly. At this point, everything except the API Gateway, Lambda function, and DynamoDB table are taken care of through IaC using terraform. I know IaC is an incredibly valuable skill to learn, so I plan to continue converting the rest of the AWS services to code as soon as I can. 
+
+Here is the updated diagram showing the relationships between the various services.
+
+![cloud-resume-diagram-with-terraform](./assets/cloud-resume-diagram-terraform.png)
 <br/><br/>
 [Back Home](./index.md)
 
